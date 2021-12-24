@@ -15,5 +15,52 @@
         *Java
         *C#
         *HTML/CSS
+        
 ---
+
+### Code:
+
+```
+
+let a = ["a","e","i","o","u"]
+let str1=str.split('')
+let nn
+if (str.length>=4)
+{
+        for(let i=0; i<a.length; i++)
+        {
+                if (str1[2]===a[i])
+                {
+                        nn=str1[0]+str1[1]+str1[2]+str1[3]
+                        return nn
+                }
+        }
+return str1[0]+str1[1]+str1[2]
+}
+else
+        {
+                        return false
+        }
+```
+
+---
+
+### Experience:
+        Not working in IT
+
+---
+
+### Education:
+
+        Gomel State University named after P.O. Sukhoi - software engineer
+
+        Course - RS Schools JS/FE (in process)
+
+---
+
+### Langusges:
+        English (A2)
+
+        German (B1)
+
   
