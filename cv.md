@@ -1,4 +1,6 @@
-# Dmitry Ladyshkin ![Photo](https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/RVXxJYQQXS1TymamUpBItwqcJwhcosgNAXXCQ6PrShBkEe3HTY57AiWcU2vx4N_soNS8kXBJQ4Fcwz9t6FZek-I-.jpg?size=200x200&quality=96&crop=0,0,2160,2160&ava=1)
+# Dmitry Ladyshkin 
+
+![Photo](https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/RVXxJYQQXS1TymamUpBItwqcJwhcosgNAXXCQ6PrShBkEe3HTY57AiWcU2vx4N_soNS8kXBJQ4Fcwz9t6FZek-I-.jpg?size=200x200&quality=96&crop=0,0,2160,2160&ava=1)
 ### Contacts: 
         * Phone: +37529 67 78 603
         * Telegram: temhbl
