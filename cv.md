@@ -1,4 +1,4 @@
-# Dmitry Ladyshkin ![PHOTO](https://sun9-11.userapi.com/impg/3ndku4n0QWv9j-X2j5qwdetescrw86dwJ07yXw/-0KzP6oHxd8.jpg?size=2160x2160&quality=96&sign=e7c4dd400556c9bb9c770b1289815d5b&type=album =200x200)
+# Dmitry Ladyshkin ![Photo](/img/1.png "Photo")
 ### Contacts: 
         * Phone: +37529 67 78 603
         * Telegram: temhbl
